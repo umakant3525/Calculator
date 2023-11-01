@@ -7,7 +7,7 @@ A simple calculator application to perform basic mathematical operations like ad
 The Calculator App is a beginner-friendly project that provides an opportunity to learn and practice core web development technologies, including HTML, CSS, and JavaScript. This app allows users to perform mathematical calculations in a user-friendly interface.
 
 ## Demo
-[Link to Live Demo](https://your-demo-link-here)
+[Link to Live Demo](https://umakant3525.github.io/Calculator/)
 
 # Technologies Used
 - HTML
